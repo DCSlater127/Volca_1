@@ -11099,7 +11099,7 @@ __metadata:
     "@types/uuid": ^9.0.2
     "@types/zxcvbn": ^4.4.1
     aws-amplify: ^5.2.5
-    framer-motion: ^10.12.16
+    framer-motion: ^10.16.12
     ky: ^0.33.3
     react: ^18.2.0
     react-dom: ^18.2.0
@@ -16766,9 +16766,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^10.12.16":
-  version: 10.12.16
-  resolution: "framer-motion@npm:10.12.16"
+"framer-motion@npm:^10.16.12":
+  version: 10.16.12
+  resolution: "framer-motion@npm:10.16.12"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     tslib: ^2.4.0
@@ -16783,7 +16783,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 0ba346fd6e64688ea5e64f9e353af6202b42d59e309ac32daca7fc07dc1dad9136dd2c18017a85ac76d01becb7f4683fc92dedbfce3e44831ea0c47bdc73e812
+  checksum: 164f80bc5a93162f2211d1e88ee5808342c96d6bb734d63878505ffa88f480bad3c29c257dd4dd13d8267f901ddaf13082c0688f80880db8f1a4efb2ee8a4edf
   languageName: node
   linkType: hard
 
